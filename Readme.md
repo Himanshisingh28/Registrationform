@@ -18,9 +18,9 @@ It allows users to enter their details and submit them through a clean and respo
 
 ##  Technologies Used
 
-- HTML – Structure of the form  
-- CSS – Styling and layout  
-- JavaScript – Form validation and interactivity  
+- **HTML** – Structure of the form  
+- **CSS** – Styling and layout  
+- **JavaScript** – Form validation and interactivity  
 
 ---
 
