@@ -36,4 +36,3 @@ It allows users to enter their details and submit them through a clean and respo
 ## Author 
 • Himanshee
 
- Check important info. See Cookie Preferences.
